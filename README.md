@@ -1,8 +1,8 @@
-# Coding-Challenge
-<h1 align="center">Project title</h1>
+
+<h1 align="center">Coding Challenge</h1>
 
 ## Description
-Matlab code where it takes as parameter a 1xn array of values and returns a an array of the sums of its parts.
+Matlab code where it takes as parameter a 1xn array of values and returns a an array of the sums of its parts. 
 
 ## Built With
 - Matlab
@@ -12,8 +12,9 @@ Matlab code where it takes as parameter a 1xn array of values and returns a an a
 - Download Matlab (license needed): https://www.mathworks.com/downloads/
 
 ## Screenshots
-![Command Window ](interface.PNG)
-![Code ](code.PNG)
+![Command Window ](<img width="957" alt="interface" src="https://user-images.githubusercontent.com/97077436/148012825-60898ed7-b30f-42a7-aac1-d269ea2cf8d5.PNG">
+)
+![Code ](<img width="945" alt="code" src="https://user-images.githubusercontent.com/97077436/148012810-b1b87a9a-9914-4b9b-9665-6805645c8be8.PNG">)
 
 
 
