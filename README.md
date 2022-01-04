@@ -33,9 +33,9 @@ In order to achieve this, the array in question is shifted clockwise by one usin
 - Download Matlab (license needed): https://www.mathworks.com/downloads/
 
 ## Screenshots
-![Command Window ](<img width="957" alt="interface" src="https://user-images.githubusercontent.com/97077436/148014864-b871ec40-ed6b-4774-814e-ae39473b9b33.PNG">)
+![Command Window ](./Screenshots/interface.PNG)
 
-![Code ](<img width="945" alt="code" src="https://user-images.githubusercontent.com/97077436/148014883-d0e80e9b-5a12-4025-9158-90510b8e2b2f.PNG">)
+![Code ](./Screenshots/code.PNG)
 
 
 
